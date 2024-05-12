@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<style name="Base.Theme.Mad_lab_04" parent="android:Theme.Material.Light.NoActionBar" >
+    <item name="colorPrimary">@color/orange</item>
+    <item name="colorPrimaryVariant">@color/orange</item>
+    <item name="android:statusBarColor">@color/orange</item>
+
+</style>
+<style name="Theme.Mad_lab_04" parent="Base.Theme.Mad_lab_04" />
+</resources>
