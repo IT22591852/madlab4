@@ -7,6 +7,9 @@ android {
     namespace = "com.example.mad_lab_04"
     compileSdk = 34
 
+    viewBinding {
+        enabled = true
+    }
     defaultConfig {
         applicationId = "com.example.mad_lab_04"
         minSdk = 24
